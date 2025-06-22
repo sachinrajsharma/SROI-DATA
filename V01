@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+%The following details outline how I calculated the Social Return on Investment (SROI). However, this is an ongoing process. In the future—particularly over the next ten years—the SROI is expected to increase significantly, as the salaries of students currently employed in reputable positions continue to rise.
+
+	\section{Social Return on Investment (SROI) Calculation – Udgam Welfare Foundation (7 Years)}
+	
+	\subsection{1. Total Social Value Created (Average Yearly Salaries of 10 Students)}
+	\begin{center}
+		\begin{tabular}{@{}ll@{}}
+			\toprule
+			\textbf{Year} & \textbf{Average Yearly Salary (INR)} \\
+			\midrule
+			2018 & 13,200,000 \\
+			2019 & 16,200,000 \\
+			2020 & 19,800,000 \\
+			2021 & 23,400,000 \\
+			2022 & 25,200,000 \\
+			2023 & 26,640,000 \\
+			2024 & 28,200,000 \\
+			\midrule
+			\textbf{Total Social Value (A)} & \textbf{152,640,000} \\
+			\bottomrule
+		\end{tabular}
+	\end{center}
+	
+	\subsection{2. Total Investment (Yearly Expenses of Udgam Welfare Foundation)}
+	\begin{center}
+		\begin{tabular}{@{}ll@{}}
+			\toprule
+			\textbf{Year} & \textbf{Yearly Expense (INR)} \\
+			\midrule
+			2012 & 425,000 \\
+			2013 & 490,000 \\
+			2014 & 535,000 \\
+			2015 & 638,000 \\
+			2016 & 875,900 \\
+			2017 & 909,090 \\
+			2018 & 350,700 \\
+			\midrule
+			\textbf{Total Investment (B)} & \textbf{4,223,690} \\
+			\bottomrule
+		\end{tabular}
+	\end{center}
+	
+	\subsection{3. SROI Calculation Formula}
+	\[
+	\text{SROI} = \frac{\text{Total Social Value Created}}{\text{Total Investment}} = \frac{152,640,000}{4,223,690}
+	\]
+	
+	\[
+	\text{SROI} \approx \mathbf{36.13}
+	\]
+	
+	\subsection{4. Interpretation}
+	For every Rs.1 spent by the Udgam Welfare Foundation from 2012 to 2018, approximately Rs.36.13 was returned in social value through the average salaries earned by 10 students from 2018 to 2024.
+	
+	Note : Students who got two years free coaching and guidance will placed after six years from the date of joining Udgam Welfare Foundation. ( 2 Years coaching + 4 Years Engineering Education )
+	
+	For expenses Udgam Welfare Foudation audit reports are also given for reference ( from the year 2016 to 2019 ) 
+	
+\end{document}
